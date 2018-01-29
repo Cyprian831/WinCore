@@ -165,3 +165,5 @@ setaccount "address" "account"
 settxfee amount
 signmessage "address" "message"
 ```
+
+###### [Take me back to the hub!](https://cyprian831.github.io/Garlicoin/)
