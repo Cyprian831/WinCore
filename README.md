@@ -21,19 +21,25 @@ In a few minutes you should have a few connections.
 You should be good now.
 Love @Buss1000#6034 & @iBłackSunday#5025
 
+## Error code -4 when trying to send transactions
+
+Include the account, I got no further explenation :(
+
 ## Useful Commands:
 
-```
-garlicoin-cli
 
+### garlicoin-cli
+```
 getinfo (This will list balance, current block, connections, etc.
 dumpprivkey
 sendtoaddress (address) (amount) ~(if amount is a decimal, enter as: 0.xxx instead of .xxx or you will get a json error)~
 settxfee (.00001 is good)
+```
 
+## Full Command List
 
-Full Command List
-== Blockchain ==
+### Blockchain
+```
 getbestblockhash
 getblock "blockhash" ( verbosity )
 getblockchaininfo
