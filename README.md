@@ -27,7 +27,7 @@ Include the account, I got no further explenation :(
 
 ## Error code -1
 
-try restarting garlicoind
+Download the initial blockchain until it is completed and then restart garlicoind
 
 ## Useful Commands:
 
