@@ -25,6 +25,10 @@ Love @Buss1000#6034 & @iBłackSunday#5025
 
 Include the account, I got no further explenation :(
 
+## Error code -1
+
+try restarting garlicoind
+
 ## Useful Commands:
 
 
