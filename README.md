@@ -1,3 +1,5 @@
+# Garlium Core Wallet
+
 ## Stuck on 0 Blocks Using Windows-Core Wallet
 
 
